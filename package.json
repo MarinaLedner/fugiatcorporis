@@ -1,0 +1,24 @@
+{
+  "name": "fugiatcorporis",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarinaLedner/fugiatcorporis.git"
+  },
+  "description": "A sane and opinionated set of linting rules for TypeScript",
+  "scripts": {
+    "deploy": "npm publish --access=public"
+  },
+  "keywords": [
+    "typescript",
+    "lint",
+    "code-standards",
+    "atque"
+  ],
+  "author": "JaylanCrist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarinaLedner/fugiatcorporis.git/issues"
+  },
+  "homepage": "https://github.com/MarinaLedner/fugiatcorporis.git"
+}
